@@ -1,0 +1,70 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="comparisons_time:jar">
+    <output-path>$USER_HOME$/Desktop/jar</output-path>
+    <root id="archive" name="ProgressiveBlocking.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/meta_03/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ProgressiveBlocking" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/weka.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/JInsect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jaxb-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jaxws-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OpenJGraph.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SentenceSplitter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-core-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jgrapht-core-0.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/secondstring-20120620.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/java-lsh-0.10-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/java-string-similarity-0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lucene-analyzers-common-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jcl-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jul-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-web-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-core-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-nosql-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-taglib-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-1.2-api-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jmx-gui-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-flume-ng-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-to-slf4j-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-iostreams-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-core-2.8.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-slf4j-impl-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jcl-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jcl-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jul-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jul-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-web-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-web-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-core-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-core-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-nosql-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-nosql-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-scala_2.10-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-scala_2.11-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-taglib-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-taglib-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-1.2-api-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-1.2-api-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jmx-gui-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-jmx-gui-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-flume-ng-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-flume-ng-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-to-slf4j-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-to-slf4j-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-iostreams-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-iostreams-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-slf4j-impl-2.8.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-slf4j-impl-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-scala_2.10-2.8.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-log4j-2.8.1-bin/log4j-api-scala_2.11-2.8.1-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
